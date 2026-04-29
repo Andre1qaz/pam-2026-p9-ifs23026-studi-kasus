@@ -32,3 +32,13 @@
 2026-04-29 04:43:20.936: [INFO] BookmarkNodeAdded, ABU: 0
 2026-04-29 04:43:20.937: [INFO] BookmarkNodeAdded, ABU: 0
 2026-04-29 04:43:23.331: [INFO] Sync initialization duration: 5761ms
+2026-04-29 06:39:55.317: [INFO] VisibilityChanged: 0
+2026-04-29 06:39:55.490: [INFO] BookmarkNodeAdded, ABU: 0
+2026-04-29 06:39:55.492: [INFO] BookmarkNodeAdded, ABU: 0
+2026-04-29 06:39:55.493: [INFO] BookmarkNodeAdded, ABU: 0
+2026-04-29 06:39:55.493: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-04-29 06:39:55.493: [INFO] OnDoneLoading sync enabled: 1
+2026-04-29 06:40:07.697: [INFO] Sync initialization duration: 2566ms
+2026-04-29 11:43:35.647: [INFO] VisibilityChanged: 1
+2026-04-29 11:43:41.983: [INFO] VisibilityChanged: 0
+2026-04-29 11:47:06.105: [INFO] VisibilityChanged: 0

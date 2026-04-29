@@ -1,2 +1,6 @@
-2026/04/29-11:43:13.914 36d8 Creating DB C:\Users\andre\AppData\Local\Temp\flutter_tools.a596b8a9\flutter_tools_chrome_device.5860f329\Default\Session Storage since it was missing.
-2026/04/29-11:43:13.927 36d8 Reusing MANIFEST C:\Users\andre\AppData\Local\Temp\flutter_tools.a596b8a9\flutter_tools_chrome_device.5860f329\Default\Session Storage/MANIFEST-000001
+2026/04/29-13:39:55.472 c54 Reusing MANIFEST C:\Users\andre\AppData\Local\Temp\flutter_tools.71e8394f\flutter_tools_chrome_device.3c6a6a90\Default\Session Storage/MANIFEST-000001
+2026/04/29-13:39:55.474 c54 Recovering log #3
+2026/04/29-13:39:55.477 c54 Reusing old log C:\Users\andre\AppData\Local\Temp\flutter_tools.71e8394f\flutter_tools_chrome_device.3c6a6a90\Default\Session Storage/000003.log 
+2026/04/29-18:43:49.788 312c Level-0 table #5: started
+2026/04/29-18:43:49.800 312c Level-0 table #5: 397541 bytes OK
+2026/04/29-18:43:49.804 312c Delete type=0 #3
