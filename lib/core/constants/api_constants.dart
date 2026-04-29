@@ -1,6 +1,6 @@
 class ApiConstants {
   // Ganti URL ini dengan URL backend yang sedang berjalan
-  static const String baseUrl = 'http://10.0.2.2:5000';
+  static const String baseUrl = 'http://127.0.0.1:5000';
 
   static const String shoes      = '$baseUrl/shoes';
   static const String chat       = '$baseUrl/chat';
